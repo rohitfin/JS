@@ -1,0 +1,75 @@
+[ 
+{
+  "name":"Pain",
+  "rollNo":201,
+  "lastName" :"Akatsuki",
+  "marks" : 100
+}
+,
+{
+  "name":"Rock",
+  "rollNo":15,
+  "lastName" :"Lee ",
+  "marks" : 13
+}
+,
+{
+  "name":"Shikamaru",
+  "rollNo":1,
+  "lastName" :"Nara",
+  "marks" : 89
+}
+,
+{
+  "name":"Kakashi",
+  "rollNo":0,
+  "lastName" :"Hatake",
+  "marks" : -1
+},
+    
+{
+     "name":"Abhishek",
+     "rollNo":21,
+     "lastName" :"Yadav",
+     "marks" : 31
+ },
+ {
+    "name":"Ankit",
+    "rollNo":2,
+    "lastName" :"Yadav",
+    "marks" : 55
+},
+{
+    "name":"Rohit",
+    "rollNo":101,
+    "lastName" :"Yadav",
+    "marks" : 35
+},
+{
+    "name":"Bhola",
+    "rollNo":21,
+    "lastName" :"Ram",
+    "marks" : 78
+},
+{
+   "name":"Pravin",
+   "rollNo":2,
+   "lastName" :"Yadav",
+   "marks" : 60
+},
+{
+   "name":"Deepak",
+   "rollNo":210,
+   "lastName" :"Sharma",
+   "marks" : 37
+},
+{
+  "name":"Ravan",
+  "rollNo":15,
+  "lastName" :"-",
+  "marks" : 19
+}
+
+
+
+]
